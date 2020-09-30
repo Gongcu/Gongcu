@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Gongcu/Gongcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m a Dankook.Univ Student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I’m currently learning ...
+  - Android with kotlin
+  - Node.js(Express)
+
+
+📫 How to reach me
+
+ [📧메일](knmy0101@gmail.com)
+ 
+😄 Pronouns
+
+ [🏠블로그](https://bb-library.tistory.com/)
+
