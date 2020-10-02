@@ -9,11 +9,7 @@
   - Node.js(Express)
 
 
-📫 How to reach me
-
- [📧메일](knmy0101@gmail.com)
+📫 How to reach me: [📧메일](knmy0101@gmail.com)
  
-😄 Pronouns
-
- [🏠블로그](https://bb-library.tistory.com/)
+😄 Pronouns: [🏠블로그](https://bb-library.tistory.com/)
 
