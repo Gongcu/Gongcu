@@ -5,9 +5,10 @@
 
 
 🌱 I’m currently learning ...
-  - Android with kotlin
+  - Dependency Injection(Dagger2, Hilt)
+  - Android Clean Architecture
   - Flutter
-  - Node.js(Express)
+
 
   
 
