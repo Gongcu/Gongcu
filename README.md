@@ -9,7 +9,7 @@
   - Dependency Injection(Dagger2, Hilt)
   - Android Clean Architecture
   - Unit Test(JUnit, Mockito)
-  - Flutter
+  - DDD
 
 
 
